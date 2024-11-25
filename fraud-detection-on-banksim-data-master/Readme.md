@@ -53,7 +53,9 @@ Random Forest
 XGBoost
 
 Deep Learning Models:
-LSTM (Long Short-Term Memory) using BERT embeddings
+Bidirectional Long Short-Term Memory (Bi-LSTM) using BERT embeddings
+
+
 
 5. Model Evaluation
 Models are evaluated based on their accuracy, precision, recall, F1-score, and ROC-AUC score. The performance of each model is compared using confusion matrices and classification reports. the SMOTE for balancing the dataset. Overall results looks more better just check the file called Fraud Detection on Bank Payments.ipynb from inside the repo.
